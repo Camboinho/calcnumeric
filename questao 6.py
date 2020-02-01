@@ -1,7 +1,7 @@
 from numpy import linspace
 import numpy as np
 
-/* Sendo x0 a aproximação inicial, foi variado pra 0, 0.5 e 1000 ( letras a, b e c*/
+# Sendo x0 a aproximação inicial, foi variado pra 0, 0.5 e 1000 (letras a, b e c)
 
 x0 = 1000 
 
